@@ -1,0 +1,19 @@
+{
+  "name": "notification-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler/issues"
+  },
+  "homepage": "https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler#readme"
+}
