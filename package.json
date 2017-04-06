@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler/issues"
   },
-  "homepage": "https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler#readme"
+  "homepage": "https://github.com/COMP308-Emerging-Technologies-Group2/notification-scheduler#readme",
+  "dependencies": {
+    "firebase": "^3.7.5",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.12"
+  }
 }
